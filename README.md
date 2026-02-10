@@ -16,7 +16,7 @@ Adult Income Dataset (from scikit-learn OpenML)
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/YOURUSERNAME/week4-data-exploration-ml.git
+   git clone (https://github.com/bjseifert/week4-data-exploration-ml/tree/main)
 
 2. Install dependencies:
    pip install numpy pandas matplotlib scikit-learn seaborn
