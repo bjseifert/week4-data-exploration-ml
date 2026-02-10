@@ -1,0 +1,15 @@
+## Reflection
+
+One challenging part of feature engineering was handling categorical variables. 
+Using one-hot encoding significantly increased the number of features, which can 
+increase model complexity.
+
+Creating the age group feature helped simplify age into meaningful categories, 
+which may improve interpretability. However, binning can also reduce precision 
+since it removes detailed numeric variation.
+
+My model achieved moderate accuracy. With more tuning (feature scaling, 
+regularization adjustments, or trying RandomForest), performance could improve.
+
+Next time, I would experiment with feature scaling and cross-validation 
+to better optimize performance.
